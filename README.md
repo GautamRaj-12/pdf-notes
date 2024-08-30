@@ -1,2 +1,2 @@
-## PDF Handwritten Notes
-- This repo contains my handwritten notes on different topics
+## PDF Notes
+- This repo contains my pdf notes on different topics
